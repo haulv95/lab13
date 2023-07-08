@@ -1,0 +1,15 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://www.usatoday.com/gcdn/-mm-/fc2b5c59697b0b247df1a059054822e2fdb29200/c=0-132-2000-1262/local/-/media/USATODAY/USATODAY/2013/08/29/1377788502008-SF-01.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--MZvaMEOV--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/qll2w5atklv13ljmqope.png;);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://www.usatoday.com/gcdn/-mm-/fc2b5c59697b0b247df1a059054822e2fdb29200/c=0-132-2000-1262/local/-/media/USATODAY/USATODAY/2013/08/29/1377788502008-SF-01.jpg);
+}
